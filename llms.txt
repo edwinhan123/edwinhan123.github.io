@@ -1,0 +1,37 @@
+# Xintong Han
+
+> Xintong Han is an Assistant Professor of Marketing in the Department of Marketing at the Faculty of Business Administration, Université Laval.
+
+Canonical profile: https://edwinhan123.github.io/
+Official university profile: https://www.fsa.ulaval.ca/en/expert/xintong-han/
+ORCID: https://orcid.org/0000-0001-7369-0506
+Google Scholar: https://scholar.google.com/citations?user=ZbgMprUAAAAJ&hl=en
+Email: xintong.han@fsa.ulaval.ca
+
+## Research
+
+Xintong Han studies quantitative marketing, digital platforms, platform economics, network economics, empirical industrial organization, structural econometrics, causal inference, and machine learning in econometrics.
+
+## Peer-reviewed publications
+
+- Digital revitalization or useless effort? Public e-commerce support and local specialty sales (2026). Xintong Han, Jan Victor Dee, Shaojia Wang & Kefan Chen. Journal of Development Economics, 179, 103665. https://doi.org/10.1016/j.jdeveco.2025.103665
+  - Finding: Platform access increased online sales by 16.649% and decreased offline sales by 15.549%, while total sales remained broadly unchanged.
+- Effectiveness of Online Education During the COVID-19 Pandemic: Evidence from Chinese Universities (2026). Xintong Han, Shijie Lu, Xin (Shane) Wang & Nan Cui. Production and Operations Management, 35(3), 978–994. https://doi.org/10.1177/10591478251361979
+  - Finding: Online education increased mathematics scores by 8–11 points on a 100-point scale; effects varied with course type and lockdown policies.
+- Nonlinear pricing in multidimensional context: An empirical analysis of energy consumption (2023). Xintong Han, Zimin Liu & Tong Wang. International Journal of Industrial Organization, 91, 103034. https://doi.org/10.1016/j.ijindorg.2023.103034
+  - Finding: The structural estimates imply that a 1% price increase reduces total electricity demand by about 0.7%, with limited scope for further tariff optimization.
+- Peer recognition, badge policies, and content contribution: An empirical study (2023). Xintong Han, Yushen Li & Tong Wang. Journal of Economic Behavior & Organization, 214, 691–707. https://doi.org/10.1016/j.jebo.2023.08.021
+  - Finding: Peer votes encourage content creation, while identity-rich badges can constrain contributions through reputation and privacy concerns.
+
+## Selected working papers
+
+- Creator Platform Commission Design. With Pu Zhao, Guanghua School of Management, Peking University, and Bin Gu, Questrom School of Business, Boston University.
+  - Summary: Examines how a platform’s move from a uniform 5% commission to 20%, followed by selective reductions to 5%, changed creator prices and content quality.
+  - Source: https://worksapi.gsm.pku.edu.cn/uploadfiles/20241111/puzhao_CV.pdf
+- Technology Adoption in Input-Output Networks. With Lei Xu · NET Institute Working Paper #18-05 · Bank of Canada Staff Working Paper 2019-51
+  - Summary: Models Python 3 adoption when a software package’s adoption cost depends on whether its dependency packages support Python 3.
+  - Source: https://ssrn.com/abstract=3266251
+
+## Provenance
+
+Profile and CV information is sourced from Xintong Han's personal site and official Université Laval profile. Publication metadata is linked to DOI and publisher records. This summary was last verified on 2026-07-31.
