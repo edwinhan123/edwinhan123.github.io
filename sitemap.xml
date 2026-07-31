@@ -10,5 +10,21 @@
       <image:loc>https://edwinhan123.github.io/xintong-han.jpg</image:loc>
       <image:title>Portrait of Xintong Han</image:title>
     </image:image>
+    <image:image>
+      <image:loc>https://edwinhan123.github.io/pub-ecommerce.png</image:loc>
+      <image:title>Digital revitalization or useless effort? Public e-commerce support and local specialty sales</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://edwinhan123.github.io/pub-online-education.png</image:loc>
+      <image:title>Effectiveness of Online Education During the COVID-19 Pandemic: Evidence from Chinese Universities</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://edwinhan123.github.io/pub-energy-pricing.png</image:loc>
+      <image:title>Nonlinear pricing in multidimensional context: An empirical analysis of energy consumption</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://edwinhan123.github.io/pub-peer-recognition.png</image:loc>
+      <image:title>Peer recognition, badge policies, and content contribution: An empirical study</image:title>
+    </image:image>
   </url>
 </urlset>
