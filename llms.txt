@@ -12,7 +12,7 @@ Email: xintong.han@fsa.ulaval.ca
 
 Xintong Han studies quantitative marketing, digital platforms, platform economics, network economics, empirical industrial organization, structural econometrics, causal inference, and machine learning in econometrics.
 
-## Peer-reviewed publications
+## Selected peer-reviewed publications
 
 - Digital revitalization or useless effort? Public e-commerce support and local specialty sales (2026). Xintong Han, Jan Victor Dee, Shaojia Wang & Kefan Chen. Journal of Development Economics, 179, 103665. https://doi.org/10.1016/j.jdeveco.2025.103665
   - Finding: Platform access increased online sales by 16.649% and decreased offline sales by 15.549%, while total sales remained broadly unchanged.
@@ -34,4 +34,4 @@ Xintong Han studies quantitative marketing, digital platforms, platform economic
 
 ## Provenance
 
-Profile and appointment information is based on official Université Laval records. Publication metadata is linked to DOI, publisher, and institutional records. This summary was last verified on 2026-07-31.
+Profile and appointment information is based on official Université Laval records. Peer-reviewed publication metadata is linked to DOI and publisher records. Working-paper information summarizes the author's current research record and linked institutional records where available. This summary was last verified on 2026-07-31.
