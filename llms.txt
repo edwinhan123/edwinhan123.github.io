@@ -27,11 +27,11 @@ Xintong Han studies quantitative marketing, digital platforms, platform economic
 
 - Creator Platform Commission Design. With Pu Zhao, Guanghua School of Management, Peking University, and Bin Gu, Questrom School of Business, Boston University.
   - Summary: Examines how a platform’s move from a uniform 5% commission to 20%, followed by selective reductions to 5%, changed creator prices and content quality.
-  - Source: undefined
 - Technology Adoption in Input-Output Networks. With Lei Xu · NET Institute Working Paper #18-05 · Bank of Canada Staff Working Paper 2019-51
   - Summary: Models Python 3 adoption when a software package’s adoption cost depends on whether its dependency packages support Python 3.
   - Source: https://ssrn.com/abstract=3266251
+  - Additional source: https://www.bankofcanada.ca/2019/12/staff-working-paper-2019-51/
 
 ## Provenance
 
-Profile and CV information is sourced from Xintong Han's personal site and official Université Laval profile. Publication metadata is linked to DOI and publisher records. This summary was last verified on 2026-07-31.
+Profile and appointment information is based on official Université Laval records. Publication metadata is linked to DOI, publisher, and institutional records. This summary was last verified on 2026-07-31.
