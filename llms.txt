@@ -27,7 +27,7 @@ Xintong Han studies quantitative marketing, digital platforms, platform economic
 
 - Creator Platform Commission Design. With Pu Zhao, Guanghua School of Management, Peking University, and Bin Gu, Questrom School of Business, Boston University.
   - Summary: Examines how a platform’s move from a uniform 5% commission to 20%, followed by selective reductions to 5%, changed creator prices and content quality.
-  - Source: https://worksapi.gsm.pku.edu.cn/uploadfiles/20241111/puzhao_CV.pdf
+  - Source: undefined
 - Technology Adoption in Input-Output Networks. With Lei Xu · NET Institute Working Paper #18-05 · Bank of Canada Staff Working Paper 2019-51
   - Summary: Models Python 3 adoption when a software package’s adoption cost depends on whether its dependency packages support Python 3.
   - Source: https://ssrn.com/abstract=3266251
