@@ -4,4 +4,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://edwinhan123.github.io/sitemap.xml
+Sitemap: https://han-xintong.github.io/sitemap.xml
